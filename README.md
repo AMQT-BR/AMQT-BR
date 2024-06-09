@@ -2,9 +2,8 @@ Descrição: Testando uma Interação com o Amazon AWS DynamoDB (Teste de Integr
 
 Cenário: Este teste verifica se um aplicativo Angular pode gravar e recuperar dados do Amazon DynamoDB.
 
-Código:
+Teste Código: JavaScript
 
-JavaScript
 describe('Interação com DynamoDB', () => {
   it('deve gravar e recuperar dados do DynamoDB', () => {
     // Carregar a página de dados
