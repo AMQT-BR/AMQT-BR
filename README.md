@@ -1,4 +1,4 @@
-Descrição: Testando uma Interação com o Amazon DynamoDB
+Descrição: Testando uma Interação com o Amazon AWS DynamoDB
 
 Cenário: Este teste verifica se um aplicativo Angular pode gravar e recuperar dados do Amazon DynamoDB.
 
