@@ -23,3 +23,11 @@ describe('MeuComponente', () => {
     });
   });
 });
+
+Explicação:
+
+Este teste utiliza a função cy.visit() para carregar o componente Angular.
+A função cy.get() é usada para localizar o elemento HTML que contém os dados da API.
+A função cy.should() é usada para verificar se o conteúdo do elemento HTML é o esperado.
+A função cy.request() é usada para fazer uma requisição HTTP para a API AWS.
+As funções expect() do Chai são usadas para verificar o status da requisição e o corpo da resposta.
