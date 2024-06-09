@@ -1,4 +1,4 @@
-Descrição: Testando uma Interação com o Amazon S3
+Descrição: Testando uma Interação com o Amazon AWS S3
 
 Cenário: Este teste verifica se um aplicativo Angular pode fazer upload de um arquivo para o Amazon S3.
 
