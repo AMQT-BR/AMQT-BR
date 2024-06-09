@@ -2,9 +2,8 @@ Descrição: Testando um Componente Angular com Chamada de API AWS (Teste de Int
 
 Cenário: Este teste verifica se um componente Angular está buscando dados corretamente de uma API AWS.
 
-Código:
+Teste Código: JavaScript
 
-JavaScript
 describe('MeuComponente', () => {
   it('deve buscar dados da API AWS', () => {
     // Carregar o componente
