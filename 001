@@ -1,4 +1,4 @@
-Descrição: Testando um Componente Angular com Chamada de API AWS
+Descrição: Testando um Componente Angular com Chamada de API AWS (Teste de Integração)
 
 Cenário: Este teste verifica se um componente Angular está buscando dados corretamente de uma API AWS.
 
